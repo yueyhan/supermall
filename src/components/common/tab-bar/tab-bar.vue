@@ -19,6 +19,7 @@ export default {
     left: 0px;
     bottom: 0px;
     right: 0px;
+    background-color: #eee;
 }
 
  
